@@ -1,0 +1,672 @@
+{
+  "site": "https://atelielazuli.com.br",
+  "extracted_at": "2026-04-08",
+  "total_products": 66,
+  "note": "Produto Teste 1 excluido da lista final",
+  "categories": {
+    "jaquetas_jeans_chakras": {
+      "description": "Jaquetas jeans bordadas a mao - Colecao Chakras",
+      "products": [
+        {
+          "name": "Jaqueta Raiz - 1o Chakra",
+          "slug": "jaqueta-raiiz-1-chakra",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-raiiz-1-chakra/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/DEF-1-600x799.png",
+          "status": "in_stock"
+        },
+        {
+          "name": "Jaqueta Sacral - 2o Chakra",
+          "slug": "jaqueta-sacral-2-chakra",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-sacral-2-chakra/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/01-LARANJA-FRENTE-1000x1333.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Jaqueta Plexo Solar - 3o Chakra",
+          "slug": "jaqueta-plexo-solar-3-chakra",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-plexo-solar-3-chakra/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/01-AMARELA-FRENTE-1000x1333.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Jaqueta Garganta - 5o Chakra",
+          "slug": "jaqueta-azul",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-azul/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/DEF-7-5-600x799.png",
+          "status": "in_stock"
+        },
+        {
+          "name": "Jaqueta Transcendencia - 7o Chakra",
+          "slug": "jaqueta-roxa",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-roxa/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/DEF-5-8-600x799.png",
+          "status": "in_stock"
+        },
+        {
+          "name": "Jaqueta Universe - 8o Chakra",
+          "slug": "jaqueta-universe-8-chakra",
+          "url": "https://atelielazuli.com.br/produto/jaqueta-universe-8-chakra/",
+          "original_price": "R$ 1.490,90",
+          "sale_price": "R$ 1.349,90",
+          "image": "",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "blusa_colete_jeans": {
+      "description": "Blusa colete jeans bordada a mao - Colecao Chakras",
+      "products": [
+        {
+          "name": "Blusa Colete Coracao - 4o Chakra",
+          "slug": "blusa-colete-coracao-4-chakra",
+          "url": "https://atelielazuli.com.br/produto/blusa-colete-coracao-4-chakra/",
+          "original_price": "R$ 889,90",
+          "sale_price": "R$ 779,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/01-VERDE-FRENTE-1000x1333.webp",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "calca_jeans_chakras": {
+      "description": "Calca jeans bordada a mao - Colecao Chakras",
+      "products": [
+        {
+          "name": "Calca Terceiro Olho - 6o Chakra",
+          "slug": "calca-terceiro-olho-6-chakra",
+          "url": "https://atelielazuli.com.br/produto/calca-terceiro-olho-6-chakra/",
+          "original_price": "R$ 949,90",
+          "sale_price": "R$ 879,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/11/DEF-5-9-e1752105825223-600x799.png",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "t_shirts_chakras": {
+      "description": "T-shirts de algodao com estampa pintada a mao - Colecao Chakras",
+      "products": [
+        {
+          "name": "T-shirt 1o Chakra - Raiz",
+          "slug": "t-shirt-1-chakra-raiz",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-1-chakra-raiz/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Tshirt-1o.-Chakra-3-SITE-scaled-1000x1500.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 2o Chakra - Sacral",
+          "slug": "t-shirt-2-chakra-sacral",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-2-chakra-sacral/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Tshirt-2o.-Chakra-6-SITE-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 3o Chakra - Plexo Solar",
+          "slug": "t-shirt-3-chakra-plexo-solar",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-3-chakra-plexo-solar/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Tshirt-3o.-Chakra-6SITE-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 4o Chakra - Coracao",
+          "slug": "t-shirt-4-chakra-coracao",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-4-chakra-coracao/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Tshirt-4o.-Chakra-6-SITE-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 5o Chakra - Garganta",
+          "slug": "t-shirt-5-chakra-garganta",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-5-chakra-garganta/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 6o Chakra - Terceiro Olho",
+          "slug": "t-shirt-6-chakra-terceiro-olho",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-6-chakra-terceiro-olho/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 7o Chakra - Transcendencia",
+          "slug": "t-shirt-7-chakra-transcendencia",
+          "url": "https://atelielazuli.com.br/produto/t-shirt-7-chakra-transcendencia/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "T-shirt 8o Chakra - Universo",
+          "slug": "tshirt-8-chakra-universo",
+          "url": "https://atelielazuli.com.br/produto/tshirt-8-chakra-universo/",
+          "original_price": "R$ 249,90",
+          "sale_price": "R$ 229,90",
+          "image": "",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "croppeds_chakras": {
+      "description": "Croppeds de algodao com estampa pintada a mao - Colecao Chakras",
+      "products": [
+        {
+          "name": "Cropped 1o Chakra - Raiz",
+          "slug": "cropped-1-chakra-raiz",
+          "url": "https://atelielazuli.com.br/produto/cropped-1-chakra-raiz/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/1o-Chakra-cropped-CT-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 2o Chakra - Sacral",
+          "slug": "cropped-2-chakra-sacral",
+          "url": "https://atelielazuli.com.br/produto/cropped-2-chakra-sacral/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/2o-Chakra-cropped-CT-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 3o Chakra - Plexo Solar",
+          "slug": "cropped-3-chakra-plexo-solar",
+          "url": "https://atelielazuli.com.br/produto/cropped-3-chakra-plexo-solar/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 4o Chakra - Coracao",
+          "slug": "cropped-4-chakra-coracao",
+          "url": "https://atelielazuli.com.br/produto/cropped-4-chakra-coracao/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 5o Chakra - Garganta",
+          "slug": "cropped-5-chakra-garganta",
+          "url": "https://atelielazuli.com.br/produto/cropped-5-chakra-garganta/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 6o Chakra - Terceiro Olho",
+          "slug": "cropped-6-chakra-terceiro-olho",
+          "url": "https://atelielazuli.com.br/produto/cropped-6-chakra-terceiro-olho/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 7o Chakra - Transcendencia",
+          "slug": "cropped-7-chakra-transcendencia",
+          "url": "https://atelielazuli.com.br/produto/cropped-7-chakra-transcendencia/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/7o-Chakra-cropped-CT-scaled-1000x1576.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Cropped 8o Chakra - Universo",
+          "slug": "cropped-8-chakra-universo",
+          "url": "https://atelielazuli.com.br/produto/cropped-8-chakra-universo/",
+          "original_price": "R$ 179,90",
+          "sale_price": "R$ 149,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/8o-Chakra-cropped-CT-scaled-1000x1622.jpg",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "lencos_quadrados_chakras": {
+      "description": "Lencos quadrados com estampa dos Chakras",
+      "products": [
+        {
+          "name": "Lenco quadrado 1o Chakra - Raiz",
+          "slug": "lenco-quadrado-1-chakra-raiz",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-1-chakra-raiz/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/1o-Chakra-lenco-1-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 2o Chakra - Sacral",
+          "slug": "lenco-quadrado-2-chakra-sacral",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-2-chakra-sacral/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/2o-Chakra-lenco-2-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 3o Chakra - Plexo Solar",
+          "slug": "lenco-quadrado-3-chakra-plexo-solar",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-3-chakra-plexo-solar/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/3o-Chakra-lenco-1-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 4o Chakra - Coracao",
+          "slug": "lenco-quadrado-4-chakra-coracao",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-4-chakra-coracao/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 5o Chakra - Garganta",
+          "slug": "lenco-quadrado-5-chakra-garganta",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-5-chakra-garganta/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 6o Chakra - Terceiro Olho",
+          "slug": "lenco-quadrado-6-chakra-terceiro-olho",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-6-chakra-terceiro-olho/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco quadrado 7o Chakra - Transcendencia",
+          "slug": "lenco-quadrado-7-chakra-transcendencia",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-7-chakra-transcendencia/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "lencos_quadrados_multicor": {
+      "description": "Lencos quadrados multicor - cores vibrantes",
+      "products": [
+        {
+          "name": "Lenco Quadrado Azul e Laranja",
+          "slug": "lenco-quadrado-azul-e-laranja",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-azul-e-laranja/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Lenco-extra-05-scaled-e1722529416497-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco Quadrado Azul e Vermelho",
+          "slug": "lenco-quadrado-azul-e-vermelho",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-azul-e-vermelho/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Lenco-extra-01-1-scaled-e1722530767354-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco Quadrado Azul bebe e Laranja",
+          "slug": "lenco-quadrado-azul-bebe-e-laranja-estilo-e-versatilidade-em-cores-vibrantes",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-azul-bebe-e-laranja-estilo-e-versatilidade-em-cores-vibrantes/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Lenco-extra-03-1000x1700.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco Quadrado Azul e Verde",
+          "slug": "lenco-quadrado-azul-e-verde",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-azul-e-verde/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Lenco-extra-02-1-1000x1828.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Lenco Quadrado Roxo, Laranja e Azul",
+          "slug": "lenco-quadrado-roxo-laranja-e-azul",
+          "url": "https://atelielazuli.com.br/produto/lenco-quadrado-roxo-laranja-e-azul/",
+          "original_price": "R$ 199,90",
+          "sale_price": "R$ 179,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Lenco-extra-04-scaled-1000x1566.jpg",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "cangas_redondas_chakras": {
+      "description": "Cangas redondas - Colecao Chakras",
+      "products": [
+        {
+          "name": "Canga redonda 1o Chakra - Raiz",
+          "slug": "canga-redonda-1-chakra-raiz",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-1-chakra-raiz/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/1o.-Chakra-Canga-redonda-FR-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 2o Chakra - Sacral",
+          "slug": "canga-redonda-2-chakra-sacral",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-2-chakra-sacral/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/2o.-Chakra-Canga-redonda-FR-scaled-600x799.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 3o Chakra - Plexo Solar",
+          "slug": "canga-redonda-3-chakra-plexo-solar",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-3-chakra-plexo-solar/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 4o Chakra - Coracao",
+          "slug": "canga-redonda-4-chakra-coracao",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-4-chakra-coracao/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 5o Chakra - Garganta",
+          "slug": "canga-redonda-5-chakra-garganta",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-5-chakra-garganta/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 7o Chakra - Transcendencia",
+          "slug": "canga-redonda-7-chakra-transcendencia",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-7-chakra-transcendencia/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga redonda 8o Chakra - Universo",
+          "slug": "canga-redonda-8-chakra-universo",
+          "url": "https://atelielazuli.com.br/produto/canga-redonda-8-chakra-universo/",
+          "original_price": "R$ 399,90",
+          "sale_price": "R$ 379,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/8o.-Chakra-Canga-redonda-FR-scaled-600x799.jpg",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "cangas_retangulares": {
+      "description": "Cangas retangulares - 1,80m x 1,10m - Viscose com fita grelot branca",
+      "products": [
+        {
+          "name": "Canga Retangular Mix Verde",
+          "slug": "canga-retangular-mix-verde",
+          "url": "https://atelielazuli.com.br/produto/canga-retangular-mix-verde/",
+          "original_price": "R$ 259,90",
+          "sale_price": "R$ 229,90",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga Retangular Mix Azul&Verde",
+          "slug": "canga-retangular-mix-azulverde",
+          "url": "https://atelielazuli.com.br/produto/canga-retangular-mix-azulverde/",
+          "original_price": "R$ 259,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Canga-retangular-Azul-scaled-e1722527276510-1000x1300.jpg",
+          "status": "in_stock"
+        },
+        {
+          "name": "Canga Retangular Universo",
+          "slug": "canga-retangular-universo",
+          "url": "https://atelielazuli.com.br/produto/canga-retangular-universo/",
+          "original_price": "R$ 259,90",
+          "sale_price": "R$ 229,90",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/08/Copia-de-Canga-ret-03.5-scaled-e1722527504704-1000x1243.jpg",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "kimonos": {
+      "description": "Kimonos de musseline de seda com bordado artesanal",
+      "products": [
+        {
+          "name": "Kimono Luar de Prata",
+          "slug": "kimono-luardeprata",
+          "url": "https://atelielazuli.com.br/produto/kimono-luardeprata/",
+          "original_price": "R$ 399,99",
+          "sale_price": "R$ 349,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Kimono-Luar-Prata1-600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Kimono Perola",
+          "slug": "kimono-perola",
+          "url": "https://atelielazuli.com.br/produto/kimono-perola/",
+          "original_price": "R$ 399,99",
+          "sale_price": "R$ 349,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Kimono AzulMar",
+          "slug": "kimono-azulmar",
+          "url": "https://atelielazuli.com.br/produto/kimono-azulmar/",
+          "original_price": "R$ 399,99",
+          "sale_price": "R$ 349,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Kimono Reflexo Solar",
+          "slug": "kimono-reflexosolar",
+          "url": "https://atelielazuli.com.br/produto/kimono-reflexosolar/",
+          "original_price": "R$ 399,99",
+          "sale_price": "R$ 349,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Kimono-Reflexo-Solar1-1000x1508.webp",
+          "status": "out_of_stock"
+        }
+      ]
+    },
+    "pareos": {
+      "description": "Pareos de musseline de seda com acabamento artesanal",
+      "products": [
+        {
+          "name": "Pareo Reflexo Solar",
+          "slug": "pareo-reflexo-solar",
+          "url": "https://atelielazuli.com.br/produto/pareo-reflexo-solar/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Pareo-Reflexo-Solar1-600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Pareo Perola",
+          "slug": "pareo-perola",
+          "url": "https://atelielazuli.com.br/produto/pareo-perola/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Pareo Luar de Prata",
+          "slug": "pareo-luar-de-prata",
+          "url": "https://atelielazuli.com.br/produto/pareo-luar-de-prata/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Pareo AzulMar",
+          "slug": "pareo-azulmar",
+          "url": "https://atelielazuli.com.br/produto/pareo-azulmar/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Pareo-AzulMar2-1-1000x1735.webp",
+          "status": "out_of_stock"
+        }
+      ]
+    },
+    "tops": {
+      "description": "Tops com bordado de vidrilhos e pontos de luz, alcas ajustaveis",
+      "products": [
+        {
+          "name": "Top Luar de Prata",
+          "slug": "top-luar-de-prata",
+          "url": "https://atelielazuli.com.br/produto/top-luar-de-prata/",
+          "original_price": "R$ 219,99",
+          "sale_price": "R$ 189,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Top AzulMar",
+          "slug": "top-azulmar",
+          "url": "https://atelielazuli.com.br/produto/top-azulmar/",
+          "original_price": "R$ 219,99",
+          "sale_price": "R$ 189,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Top-AzulMar1-1000x1693.webp",
+          "status": "out_of_stock"
+        },
+        {
+          "name": "Top Reflexo Solar",
+          "slug": "top-reflexo-solar",
+          "url": "https://atelielazuli.com.br/produto/top-reflexo-solar/",
+          "original_price": "R$ 219,99",
+          "sale_price": "R$ 189,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Top-Reflexo-Solar2-1000x1524.webp",
+          "status": "out_of_stock"
+        },
+        {
+          "name": "Top Mix Light",
+          "slug": "top-mix-light",
+          "url": "https://atelielazuli.com.br/produto/top-mix-light/",
+          "original_price": "R$ 219,99",
+          "sale_price": "R$ 189,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Top-MixLight3-1-1000x1355.webp",
+          "status": "out_of_stock"
+        }
+      ]
+    },
+    "bodies_tule": {
+      "description": "Bodies de tule com bordado artesanal",
+      "products": [
+        {
+          "name": "Body Tule - Perola",
+          "slug": "body-tule-perola",
+          "url": "https://atelielazuli.com.br/produto/body-tule-perola/",
+          "original_price": "R$ 449,99",
+          "sale_price": "R$ 399,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Tule-Perola-600x799.webp",
+          "status": "out_of_stock"
+        },
+        {
+          "name": "Body Tule - AzulMar",
+          "slug": "body-tule-azulmar",
+          "url": "https://atelielazuli.com.br/produto/body-tule-azulmar/",
+          "original_price": "R$ 449,99",
+          "sale_price": "R$ 399,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Tule-AzulMar-600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Body Tule - Luar de Prata",
+          "slug": "body-tule-luar-de-prata",
+          "url": "https://atelielazuli.com.br/produto/body-tule-luar-de-prata/",
+          "original_price": "R$ 449,99",
+          "sale_price": "R$ 399,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Tule-Luar-Prata1-600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Body Tule - Reflexo Solar",
+          "slug": "body-tule-reflexo-solar",
+          "url": "https://atelielazuli.com.br/produto/body-tule-reflexo-solar/",
+          "original_price": "R$ 449,99",
+          "sale_price": "R$ 399,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Tule-Reflexo-Solar2-600x799.webp",
+          "status": "in_stock"
+        }
+      ]
+    },
+    "bodies_mix": {
+      "description": "Bodies mix com acabamento artesanal",
+      "products": [
+        {
+          "name": "Body Mix Light",
+          "slug": "body-mix-light",
+          "url": "https://atelielazuli.com.br/produto/body-mix-light/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Mix-Light-FR-600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Body Mix - AzulMar",
+          "slug": "body-mix-azulmar",
+          "url": "https://atelielazuli.com.br/produto/body-mix-azulmar/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "https://atelielazuli.com.br/wp-content/uploads/2024/12/Body-Mix-AzulMar-lenco--600x799.webp",
+          "status": "in_stock"
+        },
+        {
+          "name": "Body Mix - Luar de Prata",
+          "slug": "body-mix-luar-de-prata",
+          "url": "https://atelielazuli.com.br/produto/body-mix-luar-de-prata/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "",
+          "status": "in_stock"
+        },
+        {
+          "name": "Body Mix - Reflexo Solar",
+          "slug": "body-mix-reflexo-solar",
+          "url": "https://atelielazuli.com.br/produto/body-mix-reflexo-solar/",
+          "original_price": "R$ 299,99",
+          "sale_price": "R$ 249,99",
+          "image": "",
+          "status": "in_stock"
+        }
+      ]
+    }
+  }
+}

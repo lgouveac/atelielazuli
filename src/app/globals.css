@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply font-body text-neutral-800 bg-white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+
+  ::selection {
+    @apply bg-lazuli-teal-light text-lazuli-navy;
+  }
+}
+
+@layer components {
+  .ocean-gradient {
+    background: linear-gradient(180deg, #022F5D 0%, #013A5E 40%, #025F8A 100%);
+  }
+
+  .ocean-gradient-horizontal {
+    background: linear-gradient(90deg, #022F5D 0%, #013A5E 50%, #025F8A 100%);
+  }
+
+  .ocean-gradient-hero {
+    background: linear-gradient(180deg, rgba(1,58,94,0.85) 0%, rgba(2,47,93,0.6) 50%, rgba(0,121,173,0.4) 100%);
+  }
+}

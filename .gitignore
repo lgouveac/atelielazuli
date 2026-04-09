@@ -65,3 +65,13 @@ Public/
 *.tmp
 *.temp
 .CFUserTextEncoding
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Playwright MCP
+.playwright-mcp/
